@@ -35,6 +35,7 @@ Tools for searching profiles, hashtags, and discovering target audiences.
 Tools for monitoring profile changes, account activities, and follower growth.
 
 - [Iconosquare](https://pro.iconosquare.com/) - Professional analytics and management platform for Instagram.
+- [IGDataHub](https://igdatahub.com/) - Check any public profile's followers, engagement rate and top posts, and compare creators side by side.
 - [RecentFollowed](https://recentfollowed.net/en) - Tool for discovering and inspecting recently followed Instagram accounts for monitoring and profile research.
 - [Social Blade](https://socialblade.com/instagram/) - Track statistics for any Instagram user including follower growth and engagement rate.
 - [Squarelovin](https://squarelovin.com/instagram-analytics/) - Detailed Instagram analytics and visual marketing tool.
